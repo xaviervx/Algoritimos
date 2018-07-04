@@ -11,6 +11,9 @@ import java.util.Scanner;
  *
  * @author Xavier
  */
+
+
+//oi bazinga
 public class EX1 {
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);
