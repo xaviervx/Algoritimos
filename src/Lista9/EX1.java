@@ -10,10 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-/**
- *
- * @author Xavier
- */
+
 public class EX1 {
     public static void main(String[] args) throws IOException {
         Scanner cs = new Scanner(System.in);
