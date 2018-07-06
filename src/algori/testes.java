@@ -16,7 +16,7 @@ public class testes {
         int[][][][] a = new int[10][10][10][10];
         a[4][0][0][0] = 7;
         a[5][0][0][0] = 7;
-        System.out.println(a[4][0][0][0] * a[0][0][0][0]);
+        System.out.println(a[4][0][0][0] * a[5][0][0][0]);
     }
 }
 /*

@@ -9,14 +9,16 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
+import javax.swing.JFrame;
 
 /**
  *
  * @author Xavier
  */
 public class EX4 {
-
+    
     public static void main(String[] args) throws IOException {
+        JFrame alskdj  = new JFrame();
         Scanner cs = new Scanner(System.in);
         BufferedReader lt = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Escreva: ");
