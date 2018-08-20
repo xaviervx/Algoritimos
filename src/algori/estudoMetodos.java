@@ -26,7 +26,6 @@ public class estudoMetodos {
         System.out.println ("Adição: " + adicao);
         int multiplicacao = multiplica(n1, n2);
         System.out.println("Multiplicação: " + multiplicacao);
-
     }
 
     public static String imprimeDados(int x, int y) {

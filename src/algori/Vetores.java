@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package algori;
 
 import java.io.BufferedReader;
@@ -48,7 +43,7 @@ public void inicio() throws IOException{
         System.out.println("\nFim");
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException{
         Vetores ex = new Vetores();
         ex.inicio();
     }

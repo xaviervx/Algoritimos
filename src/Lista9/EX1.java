@@ -22,7 +22,8 @@ public class EX1 {
         String texto = lt.readLine().trim();
         String carac = texto.replace(" ", "");
         String texto1 = texto.toUpperCase();
-        int tamanho = carac.length();
+        int tamanho = texto1.length();
+        int tamanho1 = carac.length();
         int vogais = 0;
         
         for (int i = 0; i < tamanho; i++) {
@@ -53,7 +54,7 @@ public class EX1 {
 //                default:
 //            }
           }
-        System.out.println("\nNúmero de caracteres: " + tamanho);
+        System.out.println("\nNúmero de caracteres: " + tamanho1);
         System.out.println("texto em maiusculo: " + texto.toUpperCase());
         System.out.println("Número de vogais: " + vogais);
         
